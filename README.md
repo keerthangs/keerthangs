@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keerthangs
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on insta
+- 🌱 I’m currently learning blockchain, node.js, react.js, .net
+- 💞️ I’m looking to collaborate on GitHub 
 - 📫 How to reach me "@keerthankee" on Instagram 
 
 <!---
